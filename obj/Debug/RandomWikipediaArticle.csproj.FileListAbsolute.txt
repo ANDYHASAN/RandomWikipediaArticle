@@ -1,0 +1,8 @@
+C:\Users\GOAT\source\repos\RandomWikipediaArticle\bin\Debug\RandomWikipediaArticle.exe.config
+C:\Users\GOAT\source\repos\RandomWikipediaArticle\bin\Debug\RandomWikipediaArticle.exe
+C:\Users\GOAT\source\repos\RandomWikipediaArticle\bin\Debug\RandomWikipediaArticle.pdb
+C:\Users\GOAT\source\repos\RandomWikipediaArticle\obj\Debug\RandomWikipediaArticle.csproj.AssemblyReference.cache
+C:\Users\GOAT\source\repos\RandomWikipediaArticle\obj\Debug\RandomWikipediaArticle.csproj.SuggestedBindingRedirects.cache
+C:\Users\GOAT\source\repos\RandomWikipediaArticle\obj\Debug\RandomWikipediaArticle.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\source\repos\RandomWikipediaArticle\obj\Debug\RandomWikipediaArticle.exe
+C:\Users\GOAT\source\repos\RandomWikipediaArticle\obj\Debug\RandomWikipediaArticle.pdb
